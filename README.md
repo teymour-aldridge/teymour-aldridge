@@ -1,3 +1,3 @@
-> As a matter of fact, logic has turned out to be significantly more effective in computer science than it has been in mathematics
+> On two occasions I have been asked, "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" ... I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-[Halpern et al]
+-  Charles Babbage, Passages from the Life of a Philosopher
