@@ -1,4 +1,3 @@
-> On two occasions I have been asked, "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" ... I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> Most people are in such a rush to enjoy themselves that they hurry right past it.
 
--  Charles Babbage, Passages from the Life of a Philosopher
-
+- Either/Or, Søren Kierkegaard
